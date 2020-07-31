@@ -48,4 +48,5 @@ $ npm test
 
 ## What else
 
-For further explanation and other interesting topics, check out my personal webpage: [_ealvarenga.dev_](ealvarenga.dev)
+For further explanation and other interesting topics, check out my personal webpage:
+<a href="https://enricoalvarenga.dev/" target="_blank">enricoalvarenga.dev</a>
