@@ -21,7 +21,7 @@ This practice not only validates the expected inputs, but also presents an alter
 $ npm install
 ```
 
-### Exec
+#### Exec
 
 We can execute the application without specifying the env variables.
 
